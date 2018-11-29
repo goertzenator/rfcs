@@ -47,12 +47,11 @@ Pragmatically, I will be looking to enable i586 support on several common packag
 # Unresolved questions
 [unresolved]: #unresolved-questions
 
--under construction-
-What parts of the design are still TBD or unknowns?
+Other variants such as Cyrix 6x86, which is somewhere between i586 and i686, are not considered here.
+
+Should the x86 CPUs have a version number like the ARM CPUs do?
 
 # Future work
 [future]: #future-work
 
--under construction-
-What future work, if any, would be implied or impacted by this feature
-without being directly part of the work?
+None known.
